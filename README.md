@@ -1,7 +1,37 @@
-# Oiii, eu sou a Bruna 💜
+## Heey, I'm Bruna✨
 
-#### 💕 Ela / Dela
+ 
+<div>
+  <h6> She / Her </h6>
+  <h6> 23 yo </h6>
+  <h6> 💚 Brasilian Web Developer 💛 </h6>
+  <h6> 📖 Bookworm 📚 </h6>
+  <h6> 🐺 Anúbis's mom 🐺 </h6>
+  
+</div>
+
 ##
+ 
+<br>
+<div> 
+  <a target="_blank" href="https://www.linkedin.com/in/bruhollanda">
+  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  </a>
+  <a target="_blank" href="https://api.whatsapp.com/send?phone=5563999642583">
+    <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
+  </a>
+  <a target="_blank" href="https://www.instagram.com/bruhollanda/">
+    <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  </a>
+
+  <a target="_blank" href="mailto:brunaholandacunha7@gmail.com">
+    <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  </a>
+<br>
+<br>
+<br>
+  
+
 
 <div align="center">
   <a href="https://github.com/Bruhollanda">
@@ -16,12 +46,5 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="right" alt="" height="150" style="border-radius:50px;" src="">
 </div>
-  
-  ##
- 
-<div> 
-  <a href="https://instagram.com/bruhollanda" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:brunaholandacunha7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/bruhollanda" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+
 </div>
