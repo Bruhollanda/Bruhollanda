@@ -33,10 +33,10 @@
   
 
 
-<div>
+<div align="left">
   <a href="https://github.com/Bruhollanda">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Bruhollanda&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruhollanda&langs_count=5&theme=nightowl"/>
+  <img height="200em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruhollanda&langs_count=5&theme=nightowl"/>
 </div>
  
 <div style="display: inline_block"><br>
