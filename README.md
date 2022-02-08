@@ -6,7 +6,7 @@
  <div>
    <h6> She / Her </h6>
    <h6> 23 yo </h6>
-   <h6> 💚 Brasilian Web Developer 💛 </h6>
+   <h6> 💚 Brazilian Web Developer 💛 </h6>
    <h6> 📖 Bookworm 📚 </h6>
    <h6> 🐺 Anúbis's mom 🐺 </h6>
 
