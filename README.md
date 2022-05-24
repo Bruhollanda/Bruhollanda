@@ -1,11 +1,11 @@
 <div align="center">
  
- ## Heey, I'm Bruna✨
+ ## Heey ✨
 
 
  <div>
    <h6> She / Her </h6>
-   <h6> 23 yo </h6>
+   <h6> 24 yo </h6>
    <h6> 💚 Brazilian Web Developer 💛 </h6>
    <h6> 📖 Bookworm 📚 </h6>
    <h6> 🐺 Anúbis's mom 🐺 </h6>
@@ -37,7 +37,7 @@
    
  <div style="display: inline_block"> 
    <a target="_blank" href="https://www.linkedin.com/in/bruhollanda">
-   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+     <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
    </a>
    <a target="_blank" href="https://api.whatsapp.com/send?phone=5563999642583">
      <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
