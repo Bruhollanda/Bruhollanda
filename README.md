@@ -50,5 +50,12 @@
      <img alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
    </a>
  </div>
+</div>
+
+
+<div style="display: flex; align-items: flex-end">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gerssivaldosantos&theme=dracula"/>
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gerssivaldosantos&theme=dracula"/>
+<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=gerssivaldosantos&theme=dracula" alt="gerssivaldosantos" />
 
 </div>
