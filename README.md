@@ -21,8 +21,6 @@
  <div align="center">
    <a href="https://github.com/Bruhollanda">
    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Bruhollanda&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-   <img height="200em" width="500em" src="https://github-readme-streak-stats.herokuapp.com/?user=bruhollanda&theme=nightowl"/>
-    </br>
    <img height="200em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruhollanda&langs_count=5&theme=nightowl"/>
 </div>
 
